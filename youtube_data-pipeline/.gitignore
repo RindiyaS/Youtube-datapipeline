@@ -1,0 +1,13 @@
+# Data files
+data/
+
+# Project documentation
+info.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment/secrets
+.env
+.env.*
