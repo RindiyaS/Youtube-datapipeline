@@ -9,7 +9,7 @@ analytics-ready datasets.
 
 ## Architecture
 
-![YouTube Data Pipeline Architecture](architecture/YouTube Trending Data Pipeline Architecture.png)
+![YouTube Trending Data Pipeline](architecture/youtube-data-pipeline-architecture.png)
 
 ## Data Flow
 
